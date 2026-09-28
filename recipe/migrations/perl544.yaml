@@ -1,0 +1,8 @@
+migrator_ts: 1727564422.5234413
+__migrator:
+  build_number: 1
+  commit_message: Rebuild for perl 5.44
+  kind: version
+  migration_number: 1
+perl:
+- 5.44
